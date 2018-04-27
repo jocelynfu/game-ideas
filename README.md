@@ -5,3 +5,6 @@
 
 2. Pixel guess
 - Guess the photo from pixelated images
+
+3. Trap the cat
+- Classic game where you try to trap the cat
