@@ -8,3 +8,6 @@
 
 3. Trap the cat
 - Classic game where you try to trap the cat
+
+4. Shrink the arena game
+- lots of bouncing balls, slice the box to make it smaller but not touch the balls
