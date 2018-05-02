@@ -1,6 +1,6 @@
 def print_board(board):
 
-	print "The board look like this: \n"
+	print "The 3x3 board looks like this: \n"
 
 	for i in range(3):
 		print " ",
